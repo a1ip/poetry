@@ -1,5 +1,5 @@
 # Summary
 
 * [Хайку](Haiku.md)
-* Танка
+* [Танка](Tanka.md)
 
