@@ -4,5 +4,5 @@
 * [Христианские](Christian.md)
 * [Хайку](Haiku.adoc)
 * [Танка](Tanka.adoc)
-* Человек
+* [Человек](Man.adoc)
 
